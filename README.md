@@ -8,7 +8,7 @@ Aplikasi ini dibuat untuk memenuhi salah satu tugas pada mata kuliah Pemrograman
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="Screenshot 2025-11-09 163034.png" width="45%" />
+  <img src="https://github.com/aldi361/FinanceApp/blob/main/assets/Screenshot%202025-11-09%20163034.png" width="45%" />
   <img src="Screenshot 2025-11-09 163133.png" width="45%" />
   <img src="Screenshot 2025-11-09 163226.png" width="45%" />
   <img src="s1.png" width="45%" />
